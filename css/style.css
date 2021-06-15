@@ -1,0 +1,36 @@
+body
+{
+	background: black;
+}
+
+div.dc
+{
+	color: red;
+}
+div.marvel
+{
+	color: blue;
+	font-weight: bold;
+}
+h2
+{
+	color: grey;
+	width: 400px;
+	font-family: impact;
+	font-size: 30px;
+	padding: 15px;
+	margin: 10px auto;
+	text-align: center;
+}
+p
+{
+	background-color: purple;
+	color: gold;
+	width: 850px;
+	padding: 10px;
+	margin: 10px auto;
+	border: 2px solid gold;
+	box-sizing: border-box;
+	text-align: justify;
+	font-size: 25px;
+}
